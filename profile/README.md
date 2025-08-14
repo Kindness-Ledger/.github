@@ -12,8 +12,8 @@ Each act becomes a small attestation on chain that references content addressed 
 ## For people and communities
 See kindness near you, share your own act across your social platforms, and invite your circle to join. Communities and schools can run local challenges, track participation with open signals, and celebrate stories together.
 
-## For brands and sponsors
-Fund challenges that invite real action. Earn a transparent Kindness Score from public open signals rather than private profiles. Activate on International Kindness Day and beyond with simple and respectful tools.
+## For partners and sponsors
+Support community challenges that invite real action. Funding improves open tools and public infrastructure. All signals are open and reusable. Partner use cases are optional and come later, and people never pay fees.
 
 ## Open core
 Core technology is open. Specs, smart contracts, SDKs, a reference app, and a public index live in the open so anyone can reuse and build upon them.
@@ -26,7 +26,6 @@ Core technology is open. Specs, smart contracts, SDKs, a reference app, and a pu
 - Clone the repositories you need
 - Read the README and run the quick start commands
 - Open issues for questions and ideas
-- Follow the public roadmap and join community calls
 
 ## Tone and care
 We avoid pressure and performance. People can contribute privately, with pseudonyms, or in public. Consent and dignity come first, and the feed favors care and usefulness over spectacle.
